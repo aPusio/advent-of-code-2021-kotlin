@@ -11,5 +11,6 @@ fun main() {
             last = it
             isBigger
         }.count { it }
+    print("hehe from Tomasz")
     print(result)
 }
